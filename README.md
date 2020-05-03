@@ -1,0 +1,2 @@
+# creditscorecard
+This report uses EM Model to deal with missing values, remove outliers, and use imblearn package to deal with sample imbalance. Then, this report build a credit scorecard with a 0.84 accuracy using Binning, Weight of Evidence(WoE), Information Value(IV) and Logistic Regression. This report primarily uses SPSS in the exploratory analysis process, and Python for model building. All data and codes in this report are available at https://github.com/mktming/creditscorecard.
